@@ -1,0 +1,15 @@
+{
+    "name": "maxon/pop1",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Maxon"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "psr/log": "^1.1"
+    }
+}
